@@ -1,6 +1,6 @@
 # Criminal-Network-analysis
 This repository is to support our paper titled
-["RESEARCH NOTES: A PROOF OF CONCEPT STUDY FOR CRIMINAL NETWORK ANALYSIS WITH INTERACTIVE STRATEGIES(116)"]("https://tongjidomainmodeling.github.io/Criminal-Network-analysis/papers/ijseke_zhou.pdf")
+["RESEARCH NOTES: A PROOF OF CONCEPT STUDY FOR CRIMINAL NETWORK ANALYSIS WITH INTERACTIVE STRATEGIES(116)"](https://tongjidomainmodeling.github.io/Criminal-Network-analysis/papers/ijseke_zhou.pdf)
 revised at IJSEKE 2016.
 
 This paper was submitted to IJSEKE Special Issue on Selected papers from SEKE2016 as research notes.
