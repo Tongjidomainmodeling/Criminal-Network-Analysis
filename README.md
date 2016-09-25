@@ -9,10 +9,25 @@ and appendices, so we here provide some details that can't be fully shown in the
 > We hope this can make our readers more easy to understand the process proposed in our paper and the case study
 with a real world criminal dataset.
 
-### IJSEKE revision
-###
+### IJSEKE revision: changes list
+    1. change1
+    2. change2
+    3. change3
+    4. change4
+
+
+### Dataset Introduction and Network Construction
+    1. change1
+    2. change2
+    3. change3
+    4. change4
 
 
 
-----
+### Experiment Results Interpretation
+    1. change1
+    2. change2
+    3. change3
+    4. change4
+
 
